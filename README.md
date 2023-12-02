@@ -139,3 +139,6 @@ The Laplacian operator, which computes the second derivative of an image, is oft
 The project notebook provides clear explanations, code implementations in Python using common libraries like OpenCV or custom implementations, and visual demonstrations to understand and apply these image processing techniques effectively.
 
 Explore these notebooks to understand, implement, and experiment with essential image processing algorithms for feature extraction, edge detection, and shape recognition.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
