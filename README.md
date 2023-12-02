@@ -1,5 +1,8 @@
 # Image Processing Algorithms
 This image processing project showcases the implementation of fundamental techniques and algorithms for feature extraction, edge detection, and shape recognition. The project includes Python notebooks demonstrating the practical application of various methods, including:
+<p align="center">
+  <img src="fig.png" />
+</p>
 
 ### Thresholding
 Thresholding segments images by setting pixel values above or below a certain threshold. It creates binary images where pixel values are classified as foreground or background based on intensity.
