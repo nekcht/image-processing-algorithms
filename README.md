@@ -1,5 +1,5 @@
 # Image Processing Algorithms
-This image processing project showcases the implementation of fundamental techniques and algorithms for feature extraction, edge detection, and shape recognition. The project includes Python notebooks demonstrating the practical application of various methods, including:
+This image processing project showcases the implementation of fundamental techniques and algorithms for feature extraction, edge detection, and shape recognition. THe notebook demonstrates the practical application of various methods, including the following.
 <p align="center">
   <img src="fig.png" />
 </p>
